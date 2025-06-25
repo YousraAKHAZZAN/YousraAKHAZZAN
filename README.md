@@ -9,9 +9,9 @@ Je suis une ingénieure en devenir, curieuse et motivée, actuellement en cycle 
 
 -  **Intelligence Artificielle** : NLP, Deep Learning, Computer Vision
 -  **Développement Web** : Spring Boot, Angular, React, FastAPI
-- ☁ **IoT & Cloud** : Projets WoT avec MQTT, Node-RED, ThingsBoard
-- 🛡 **Cybersécurité** : Audit d'applications OWASP BWA (DVWA, bWAPP, etc.)
--    **Data Engineering & Mining** : ETL, OLAP, entrepôts de données
+-  **IoT & Cloud** : Projets WoT avec MQTT, Node-RED, ThingsBoard
+-  **Cybersécurité** : Audit d'applications OWASP BWA (DVWA, bWAPP, etc.)
+-  **Data Engineering & Mining** : ETL, OLAP, entrepôts de données
 -  **DevOps** : Docker, GitHub Actions (notions)
 
 ---
@@ -37,7 +37,7 @@ Je suis une ingénieure en devenir, curieuse et motivée, actuellement en cycle 
 
 
 
-## 📫 Me contacter
+##  Me contacter
 
 -  [LinkedIn](https://www.linkedin.com/in/yousra-akhazzan-5b248b315/) 
 - akhayousra@gmail.com

@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Yousra Akhazzan !
+# 👋 Salut, je suis Yousra Akhazzan !
 
  Étudiante en Génie Logiciel & Systèmes Intelligents | Passionnée par l'IA, le développement full-stack 
 
@@ -42,8 +42,7 @@ Je suis une ingénieure en devenir, curieuse et motivée, actuellement en cycle 
 -  [LinkedIn](https://www.linkedin.com/in/yousra-akhazzan-5b248b315/) 
 - akhayousra@gmail.com
   
-**Je suis ouverte à de nouvelles opportunités de stage, alternance ou emploi dans le domaine du développement, de l’IA . **
----
+
 
 > “Build. Learn. Share.” 🚀
 
